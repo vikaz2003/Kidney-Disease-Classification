@@ -1,3 +1,3 @@
-set MLFLOW_TRACKING_URI="https://dagshub.com/vikaz2003/Kidney-Disease-Classification.mlflow"
+ <!-- MLFLOW_TRACKING_URI="https://dagshub.com/vikaz2003/Kisetdney-Disease-Classification.mlflow"
 set MLFLOW_TRACKING_USERNAME="vikaz2003"
-set MLFLOW_TRACKING_PASSWORD="Vikas@Vivek03"
+set MLFLOW_TRACKING_PASSWORD="Vikas@Vivek03" -->
